@@ -11,6 +11,7 @@ a {
 	color: white;
 	font-weight: bold;
 	font-size: 24px;
+	
 }
 
 div {
@@ -50,7 +51,7 @@ ul {
 #Header h1 {
 	font-size:60px;
 	font-family:"Passion one";
-	color: gold;
+	color: #FFBC00;
 	
 }
 
